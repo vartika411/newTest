@@ -1,5 +1,5 @@
 import React from "react";
-import Form from "./components/Form";
+import Trial from "./components/Trial";
 //import SignUp from "./components/SignUp";
 
 
@@ -8,7 +8,7 @@ export default function App() {
     return (
         <div>
             
-                <Form/>
+                <Trial/>
             
 
         </div>
