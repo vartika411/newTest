@@ -1,6 +1,6 @@
 import React from "react";
 import Form from "./components/Form";
-import SignUp from "./components/SignUp";
+//import SignUp from "./components/SignUp";
 
 
 export default function App() {
@@ -8,7 +8,7 @@ export default function App() {
     return (
         <div>
             
-                <SignUp/>
+                <Form/>
             
 
         </div>
